@@ -2,8 +2,8 @@
 
 Ein Python-basiertes Projekt zur Analyse von Spotify-Daten, das zeigt, wie die Spotify Web API genutzt werden kann, um interessante Einblicke in die Musikwelt zu gewinnen.
 
-## Beispiel-Kuenstler:
--- Moksi 
+## Beispiel-Künstler:
+- Moksi 
 
 ## 🎯 Projektziel
 
