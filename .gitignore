@@ -1,0 +1,17 @@
+# Python spezifisch
+__pycache__/
+*.pyc
+*.pyo
+
+# Umgebungsvariablen
+.env
+
+# Virtuelle Umgebungen
+apienv/
+*.egg-info/
+
+# # Daten- und Logdateien
+# data/
+# *.csv
+# *.json
+# *.png

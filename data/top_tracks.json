@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Gipsy",
+        "album": "The Return of House Music",
+        "popularity": 48,
+        "spotify_url": "https://open.spotify.com/track/7mA03cPnG3UkLgf1ed87fI"
+    },
+    {
+        "name": "Tidalwave",
+        "album": "Tidalwave",
+        "popularity": 47,
+        "spotify_url": "https://open.spotify.com/track/7wB5Ktf3MbsbNRgEDI5B80"
+    },
+    {
+        "name": "Boom Shakalaka",
+        "album": "The Return of House Music",
+        "popularity": 46,
+        "spotify_url": "https://open.spotify.com/track/5ijp0ctfwwkmkR6hWDQnwn"
+    },
+    {
+        "name": "Slow Burn",
+        "album": "The Return of House Music",
+        "popularity": 45,
+        "spotify_url": "https://open.spotify.com/track/1AfA0K7BLxceH7PjzcZdZc"
+    },
+    {
+        "name": "Shout Like",
+        "album": "Free Moksi",
+        "popularity": 32,
+        "spotify_url": "https://open.spotify.com/track/2GdyMupGfIbc4Fr55WwUKg"
+    },
+    {
+        "name": "Mud Season",
+        "album": "Mud Season",
+        "popularity": 32,
+        "spotify_url": "https://open.spotify.com/track/3gmgRuhZrpfawnbjWPf6Ov"
+    },
+    {
+        "name": "Lucky",
+        "album": "Lucky",
+        "popularity": 31,
+        "spotify_url": "https://open.spotify.com/track/3ItxfrDWn5XBVAD47u47r4"
+    },
+    {
+        "name": "The Mindshaker",
+        "album": "The Mindshaker",
+        "popularity": 30,
+        "spotify_url": "https://open.spotify.com/track/6fEAu7JRaeepDU0HJn0Kce"
+    },
+    {
+        "name": "Slow Burn - Lost Frequencies Remix",
+        "album": "The Return of House Music (Remix Pack 1)",
+        "popularity": 29,
+        "spotify_url": "https://open.spotify.com/track/6mRQXPtzPhllXky078BuJ2"
+    },
+    {
+        "name": "Inside of Me (Posij Remix)",
+        "album": "Free Moksi (Remix Album)",
+        "popularity": 28,
+        "spotify_url": "https://open.spotify.com/track/4KxhSt1i8RgqGdurA9tLvS"
+    }
+]
